@@ -5597,7 +5597,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6e180312-3d4d-4440-bfa0-0557acb898f0")
 		(property "Reference" "#FLG01"
 			(at 27.94 33.655 0)
@@ -5635,12 +5634,11 @@
 			)
 		)
 		(property "Description" "4.5V - 18V"
-			(at 27.94 35.56 0)
+			(at 28.194 37.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
