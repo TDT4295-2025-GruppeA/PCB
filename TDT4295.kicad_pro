@@ -617,6 +617,10 @@
     [
       "f7dbf63d-f891-4c8e-a7a2-66a57df960da",
       "FPGA-power-source"
+    ],
+    [
+      "274382c3-e627-4606-80d9-d86658e18f9c",
+      "8bit vga out"
     ]
   ],
   "text_variables": {}

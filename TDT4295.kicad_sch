@@ -11,6 +11,48 @@
 	)
 	(lib_symbols)
 	(sheet
+		(at 67.31 15.24)
+		(size 54.61 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "274382c3-e627-4606-80d9-d86658e18f9c")
+		(property "Sheetname" "8bit vga out"
+			(at 67.31 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 67.31 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TDT4295"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 13.97 15.24)
 		(size 49.53 40.64)
 		(exclude_from_sim no)
