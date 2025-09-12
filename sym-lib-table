@@ -150,4 +150,6 @@
   (lib (name "dk_TVS-Diodes")(type "KiCad")(uri "/Users/rikke/Datateknologi/Data 4.klasse/TDT4295-Datamaskinprosjekt/digikey-kicad-library-master/digikey-symbols/dk_TVS-Diodes.kicad_sym")(options "")(descr ""))
   (lib (name "dk_TVS-Mixed-Technology")(type "KiCad")(uri "/Users/rikke/Datateknologi/Data 4.klasse/TDT4295-Datamaskinprosjekt/digikey-kicad-library-master/digikey-symbols/dk_TVS-Mixed-Technology.kicad_sym")(options "")(descr ""))
   (lib (name "dk_USB-DVI-HDMI-Connectors")(type "KiCad")(uri "/Users/rikke/Datateknologi/Data 4.klasse/TDT4295-Datamaskinprosjekt/digikey-kicad-library-master/digikey-symbols/dk_USB-DVI-HDMI-Connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "S25FL127S")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/S25FL127S.kicad_sym")(options "")(descr ""))
+  (lib (name "FPGA_Debug")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/FPGA_Debug.kicad_sym")(options "")(descr ""))
 )
