@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "071102f3-276b-4b6b-8738-8c534a30b197")
-	(paper "A4")
+	(paper "A5")
 	(title_block
 		(title "TDT4295")
 		(date "2025-09-05")
@@ -54,7 +54,7 @@
 	)
 	(sheet
 		(at 13.97 15.24)
-		(size 49.53 40.64)
+		(size 25.4 20.32)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -78,7 +78,7 @@
 			)
 		)
 		(property "Sheetfile" "FPGA-power-source.kicad_sch"
-			(at 13.97 56.4646 0)
+			(at 13.97 36.1446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
