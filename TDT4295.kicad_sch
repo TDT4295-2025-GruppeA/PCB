@@ -26,7 +26,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "274382c3-e627-4606-80d9-d86658e18f9c")
-		(property "Sheetname" "8bit vga out"
+		(property "Sheetname" "4bit vga out"
 			(at 67.31 14.5284 0)
 			(effects
 				(font
