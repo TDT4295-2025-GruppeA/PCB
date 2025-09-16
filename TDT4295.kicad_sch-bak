@@ -11,8 +11,8 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 53.34 14.605)
-		(size 28.575 21.59)
+		(at 67.31 15.24)
+		(size 54.61 40.64)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -27,7 +27,7 @@
 		)
 		(uuid "274382c3-e627-4606-80d9-d86658e18f9c")
 		(property "Sheetname" "4bit vga out"
-			(at 53.34 13.8934 0)
+			(at 67.31 14.5284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36,7 +36,7 @@
 			)
 		)
 		(property "Sheetfile" "untitled.kicad_sch"
-			(at 53.34 36.7796 0)
+			(at 67.31 56.4646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48,49 +48,6 @@
 			(project "TDT4295"
 				(path "/071102f3-276b-4b6b-8738-8c534a30b197"
 					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 91.44 14.605)
-		(size 24.13 21.59)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "91cac871-d497-4887-ab60-4a820d2ee1af")
-		(property "Sheetname" "SD_card"
-			(at 91.44 13.8934 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "SD_card.kicad_sch"
-			(at 91.44 36.7796 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "TDT4295"
-				(path "/071102f3-276b-4b6b-8738-8c534a30b197"
-					(page "4")
 				)
 			)
 		)

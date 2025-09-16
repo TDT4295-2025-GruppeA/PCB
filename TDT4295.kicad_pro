@@ -646,6 +646,10 @@
     [
       "274382c3-e627-4606-80d9-d86658e18f9c",
       "4bit vga out"
+    ],
+    [
+      "91cac871-d497-4887-ab60-4a820d2ee1af",
+      "SD_card"
     ]
   ],
   "text_variables": {}
