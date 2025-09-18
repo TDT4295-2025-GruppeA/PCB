@@ -1416,6 +1416,16 @@
 		)
 		(uuid "07b7b413-0c7d-4b38-83d4-e55bdc194008")
 	)
+	(text "Mangler å lage en connector\n"
+		(exclude_from_sim no)
+		(at 248.412 97.536 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "11f7dd8c-7c2a-42ee-a4b2-a43a6b8c05f9")
+	)
 	(text "VGA_VS\nVGA_HS"
 		(exclude_from_sim no)
 		(at 192.532 109.982 0)

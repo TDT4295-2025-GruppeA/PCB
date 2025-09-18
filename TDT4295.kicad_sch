@@ -138,6 +138,48 @@
 		)
 	)
 	(sheet
+		(at 19.05 45.72)
+		(size 38.735 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65")
+		(property "Sheetname" "FPGA"
+			(at 19.05 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA.kicad_sch"
+			(at 19.05 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TDT4295"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 13.97 15.24)
 		(size 25.4 20.32)
 		(exclude_from_sim no)

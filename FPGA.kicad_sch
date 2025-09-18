@@ -8637,6 +8637,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C9")
 					(unit 1)
@@ -8703,6 +8709,12 @@
 			(uuid "3686ae73-ac31-4a06-b8fc-0d912a88c628")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR012")
@@ -8771,6 +8783,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR032")
 					(unit 1)
@@ -8838,6 +8856,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR049")
 					(unit 1)
@@ -8903,6 +8927,12 @@
 			(uuid "b5c67dda-4c56-4d0f-a3f0-345c92696787")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR071")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR071")
@@ -8970,6 +9000,12 @@
 			(uuid "0d3af7e6-4691-46bb-8708-9b326ba97140")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR042")
@@ -9075,6 +9111,12 @@
 		)
 		(instances
 			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "J1")
 					(unit 1)
@@ -9142,6 +9184,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR027")
 					(unit 1)
@@ -9207,6 +9255,12 @@
 			(uuid "8168eb03-2ff0-4a28-98e4-ebbf8478a2a5")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR01")
@@ -9275,6 +9329,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR081")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR081")
 					(unit 1)
@@ -9342,6 +9402,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR078")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR078")
 					(unit 1)
@@ -9407,6 +9473,12 @@
 			(uuid "50dcf430-5e79-4479-b3c5-b0175df2a08e")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR070")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR070")
@@ -9474,6 +9546,12 @@
 			(uuid "e72a0cea-c116-42ec-a422-0cf093a5e256")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR019")
@@ -9545,6 +9623,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C39")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C39")
 					(unit 1)
@@ -9614,6 +9698,12 @@
 			(uuid "975bde28-0825-4c0b-b8ac-da32869291da")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C27")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C27")
@@ -9685,6 +9775,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C6")
 					(unit 1)
@@ -9755,6 +9851,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C18")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C18")
 					(unit 1)
@@ -9821,6 +9923,12 @@
 			(uuid "9d6ecd1c-46c2-47b2-8314-c397553225d5")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR031")
@@ -9892,6 +10000,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C29")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C29")
 					(unit 1)
@@ -9961,6 +10075,12 @@
 			(uuid "d1f12b4f-5d74-4d97-89d2-f17f254167fe")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C22")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C22")
@@ -10050,6 +10170,12 @@
 		)
 		(instances
 			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "U1")
 					(unit 1)
@@ -10120,6 +10246,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C3")
 					(unit 1)
@@ -10187,6 +10319,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR035")
 					(unit 1)
@@ -10252,6 +10390,12 @@
 			(uuid "cb8fa18c-4195-479e-b620-0a6da7940752")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR04")
@@ -10319,6 +10463,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR039")
 					(unit 1)
@@ -10385,6 +10535,12 @@
 		)
 		(instances
 			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR069")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR069")
 					(unit 1)
@@ -10450,6 +10606,12 @@
 			(uuid "2e3e1bcf-9477-4725-a706-e86c58b4a04e")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR02")
@@ -10518,6 +10680,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR075")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR075")
 					(unit 1)
@@ -10584,6 +10752,12 @@
 			(uuid "faa92561-8b60-470f-84d1-c121e99f7d74")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR020")
@@ -10655,6 +10829,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C4")
 					(unit 1)
@@ -10721,6 +10901,12 @@
 			(uuid "88a877b0-7efb-4fc5-9e89-9d9ba7fff5f7")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR053")
@@ -10792,6 +10978,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C19")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C19")
 					(unit 1)
@@ -10858,6 +11050,12 @@
 			(uuid "6c5fcec3-1d37-4715-8975-821053d3d611")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR074")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR074")
@@ -10929,6 +11127,12 @@
 		)
 		(instances
 			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "R1")
 					(unit 1)
@@ -10995,6 +11199,12 @@
 			(uuid "586ec76a-122e-43a2-a9ce-6c79964615d2")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR061")
@@ -11066,6 +11276,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C14")
 					(unit 1)
@@ -11132,6 +11348,12 @@
 			(uuid "c5a91162-2e6f-44f2-b756-f676867950d4")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR017")
@@ -11200,6 +11422,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR058")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR058")
 					(unit 1)
@@ -11266,6 +11494,12 @@
 			(uuid "30c25a9d-5f71-4c52-bf7b-fad8dede449f")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR029")
@@ -11337,6 +11571,12 @@
 		)
 		(instances
 			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C2")
 					(unit 1)
@@ -11404,6 +11644,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR018")
 					(unit 1)
@@ -11470,6 +11716,12 @@
 			(uuid "42d7e1bc-fdcf-479b-b8d3-da1d60d65adc")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR013")
@@ -11545,6 +11797,12 @@
 		)
 		(instances
 			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "Y1")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "Y1")
 					(unit 1)
@@ -11614,6 +11872,12 @@
 			(uuid "8b357520-33d4-4f3c-8249-877a0818eba4")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C1")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C1")
@@ -11685,6 +11949,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "R2")
 					(unit 1)
@@ -11751,6 +12021,12 @@
 			(uuid "2cc76d4b-c21e-4202-b883-9c3b68a578d7")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR050")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR050")
@@ -11822,6 +12098,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C17")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C17")
 					(unit 1)
@@ -11892,6 +12174,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C24")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C24")
 					(unit 1)
@@ -11958,6 +12246,12 @@
 			(uuid "4d541279-53d5-4b42-b232-95b6d66d8cd3")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR055")
@@ -12029,6 +12323,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C37")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C37")
 					(unit 1)
@@ -12095,6 +12395,12 @@
 			(uuid "c2b6ffee-8efe-4b0a-a56a-304d2fe206ae")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR062")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR062")
@@ -12163,6 +12469,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR080")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR080")
 					(unit 1)
@@ -12230,6 +12542,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR043")
 					(unit 1)
@@ -12295,6 +12613,12 @@
 			(uuid "a5502869-d8a5-4ede-8aac-ef3a989075f0")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR048")
@@ -12362,6 +12686,12 @@
 			(uuid "c190f377-8a21-4858-a788-f0a42a01e45f")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR056")
@@ -12433,6 +12763,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C35")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C35")
 					(unit 1)
@@ -12503,6 +12839,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C13")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C13")
 					(unit 1)
@@ -12569,6 +12911,12 @@
 			(uuid "bb8b4ba4-1136-4c4d-ac5b-8d91b5a82547")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR037")
@@ -12640,6 +12988,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C34")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C34")
 					(unit 1)
@@ -12710,6 +13064,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C8")
 					(unit 1)
@@ -12776,6 +13136,12 @@
 			(uuid "c76da3fc-a228-4cbe-ada9-ef489678f035")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR036")
@@ -12847,6 +13213,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C31")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C31")
 					(unit 1)
@@ -12913,6 +13285,12 @@
 			(uuid "acb0e3c9-b7f1-403c-b044-4ce67b6c78f4")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR045")
@@ -12981,6 +13359,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR023")
 					(unit 1)
@@ -13047,6 +13431,12 @@
 			(uuid "b60af930-dd99-4aed-a5ca-246e75bfa0a2")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR046")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR046")
@@ -13117,6 +13507,12 @@
 			(uuid "f4defb42-4a9b-439c-a6f0-c225ce5a6112")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C20")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C20")
@@ -14000,6 +14396,12 @@
 		)
 		(instances
 			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "IC1")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "IC1")
 					(unit 1)
@@ -14065,6 +14467,12 @@
 			(uuid "8c832f4c-d3fc-4559-a971-abab9c9e4654")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR068")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR068")
@@ -14136,6 +14544,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C36")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C36")
 					(unit 1)
@@ -14200,6 +14614,12 @@
 			(uuid "9dfd46c0-5df2-49f6-a922-a23bc1b4fa62")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR077")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR077")
@@ -14271,6 +14691,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C40")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C40")
 					(unit 1)
@@ -14340,6 +14766,12 @@
 			(uuid "ae64f13b-2faf-4876-bd2f-b844696592d3")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C16")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C16")
@@ -14411,6 +14843,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C15")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C15")
 					(unit 1)
@@ -14477,6 +14915,12 @@
 			(uuid "b4ed0bb7-bb92-4f3e-bfb0-156173b8d3e7")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR021")
@@ -14545,6 +14989,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR052")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR052")
 					(unit 1)
@@ -14610,6 +15060,12 @@
 			(uuid "4d67305e-24ec-496f-9a36-e3818440d19c")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR07")
@@ -14681,6 +15137,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C32")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C32")
 					(unit 1)
@@ -14747,6 +15209,12 @@
 			(uuid "2366684e-e58a-40ea-954a-2ee5d6895af7")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "R6")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "R6")
@@ -14815,6 +15283,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR044")
 					(unit 1)
@@ -14881,6 +15355,12 @@
 			(uuid "55dded49-c7df-45cd-bdbd-d214bbe82476")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR025")
@@ -14952,6 +15432,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C33")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C33")
 					(unit 1)
@@ -15018,6 +15504,12 @@
 			(uuid "bb0122c9-1fee-4d0f-9875-16a2e2b6c10c")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR065")
@@ -15086,6 +15578,12 @@
 		)
 		(instances
 			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR072")
 					(unit 1)
@@ -15152,6 +15650,12 @@
 			(uuid "71292e37-ae37-4553-bfd6-b5e8a958e8ec")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "R5")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "R5")
@@ -15223,6 +15727,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C11")
 					(unit 1)
@@ -15287,6 +15797,12 @@
 			(uuid "5aef6bf7-5ff8-443f-b154-9e695f152cc9")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR047")
@@ -15355,6 +15871,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR034")
 					(unit 1)
@@ -15420,6 +15942,12 @@
 			(uuid "328808c6-3e1d-40a7-8255-01195abef121")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR06")
@@ -15491,6 +16019,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C30")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C30")
 					(unit 1)
@@ -15557,6 +16091,12 @@
 			(uuid "665760e1-b83b-42f0-928d-7b01acd5a44c")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR040")
@@ -15628,6 +16168,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C5")
 					(unit 1)
@@ -15698,6 +16244,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "R3")
 					(unit 1)
@@ -15764,6 +16316,12 @@
 			(uuid "ada37820-2e12-4b29-b7aa-c201fe7fc56c")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR057")
@@ -15832,6 +16390,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR033")
 					(unit 1)
@@ -15899,6 +16463,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR059")
 					(unit 1)
@@ -15965,6 +16535,12 @@
 			(uuid "d556d82e-0dc0-4c4c-92e3-a754504871fc")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR038")
@@ -16036,6 +16612,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C25")
 					(unit 1)
@@ -16102,6 +16684,12 @@
 			(uuid "977ae6fb-73bf-40eb-894a-afae81732332")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR024")
@@ -16173,6 +16761,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C23")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C23")
 					(unit 1)
@@ -16239,6 +16833,12 @@
 			(uuid "75da0550-f8ae-42e5-9004-b64b932fe6bf")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR030")
@@ -16307,6 +16907,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR011")
 					(unit 1)
@@ -16373,6 +16979,12 @@
 			(uuid "e4f2ce6e-2718-4b1e-aa98-1dbfd9760adc")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "R4")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "R4")
@@ -16444,6 +17056,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C7")
 					(unit 1)
@@ -16514,6 +17132,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C21")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C21")
 					(unit 1)
@@ -16580,6 +17204,12 @@
 			(uuid "147e235a-d8b6-48e6-a38a-9561a54fa7da")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR010")
@@ -16648,6 +17278,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR060")
 					(unit 1)
@@ -16714,6 +17350,12 @@
 			(uuid "47389561-1cfd-461c-aa38-e6b38d8d7a13")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR028")
@@ -16782,6 +17424,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR016")
 					(unit 1)
@@ -16847,6 +17495,12 @@
 			(uuid "d641eb05-5b70-4e1f-864b-ded2e922c848")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR08")
@@ -16914,6 +17568,12 @@
 			(uuid "2e71f1b4-b058-4c80-bb96-51559417abe5")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR041")
@@ -16985,6 +17645,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C12")
 					(unit 1)
@@ -17055,6 +17721,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C28")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C28")
 					(unit 1)
@@ -17121,6 +17793,12 @@
 			(uuid "cafafadc-bc51-43c3-a751-a4481143fdd9")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR063")
@@ -17192,6 +17870,12 @@
 		)
 		(instances
 			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C41")
+					(unit 1)
+				)
+			)
+			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C41")
 					(unit 1)
@@ -17259,6 +17943,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR022")
 					(unit 1)
@@ -17324,6 +18014,12 @@
 			(uuid "4d39b9b9-88b8-4fca-b080-43a5dcc8c2e1")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR067")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR067")
@@ -17392,6 +18088,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR015")
 					(unit 1)
@@ -17457,6 +18159,12 @@
 			(uuid "3e1b4e9b-d9f5-4950-abae-26e01c16ed82")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR066")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR066")
@@ -17525,6 +18233,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR09")
 					(unit 1)
@@ -17591,6 +18305,12 @@
 			(uuid "526c612f-607e-4d37-b433-f2d607244c8f")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR079")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR079")
@@ -17662,6 +18382,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C26")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C26")
 					(unit 1)
@@ -17729,6 +18455,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR014")
 					(unit 1)
@@ -17794,6 +18526,12 @@
 			(uuid "b3a256c9-db8c-462c-bcea-621489494c5d")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR05")
@@ -17862,6 +18600,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR073")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR073")
 					(unit 1)
@@ -17929,6 +18673,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR054")
 					(unit 1)
@@ -17994,6 +18744,12 @@
 			(uuid "c96c8ef4-aa14-4149-8fac-3401c6a174ee")
 		)
 		(instances
+			(project ""
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR03")
@@ -18062,6 +18818,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR064")
 					(unit 1)
@@ -18128,6 +18890,12 @@
 			(uuid "d34477ad-bbae-4ee5-8b7f-9c9a4e0921ef")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR026")
@@ -18199,6 +18967,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C38")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C38")
 					(unit 1)
@@ -18265,6 +19039,12 @@
 			(uuid "69a93f2e-7c3b-4f66-818f-405b21896119")
 		)
 		(instances
+			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR076")
+					(unit 1)
+				)
+			)
 			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR076")
@@ -18336,6 +19116,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "C10")
 					(unit 1)
@@ -18403,6 +19189,12 @@
 		)
 		(instances
 			(project "FPGA"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197/d2a0daa2-c0ff-49b1-ac48-ceab9e9b8d65"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+			(project "FPGA"
 				(path "/8a0339c7-dda0-401c-bafe-6938485a4b17"
 					(reference "#PWR051")
 					(unit 1)
@@ -18410,10 +19202,4 @@
 			)
 		)
 	)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )
