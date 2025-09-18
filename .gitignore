@@ -3,3 +3,4 @@
 _autosave-*
 .DS_Store
 *.kicad_sch.lck
+*.zip
