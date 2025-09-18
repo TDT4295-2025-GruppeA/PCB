@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32U545VET6Q
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=100
+Version=1.2
+Released=2024-01-04 09:07:10
+Downloaded=2025-09-18 11:45:16
+3D=Y

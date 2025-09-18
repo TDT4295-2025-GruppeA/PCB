@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32U545VET6Q
+D ARM Microcontrollers - MCU Ultra-low-power FPU Arm Cortex-M33 MCU TrustZone, 160 MHz 512 Kbytes of Flash
+K
+F https://www.st.com/resource/en/datasheet/stm32u545ve.pdf
+$ENDCMP
+#
+#End Doc Library

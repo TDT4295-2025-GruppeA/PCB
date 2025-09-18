@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32U545VET6Q'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32U545VET6Q" (!) = "", "QFP50P1600X1600X160-100N", "Quad Flat Packages", "", "", "ARM Microcontrollers - MCU Ultra-low-power FPU Arm Cortex-M33 MCU TrustZone, 160 MHz 512 Kbytes of Flash", "https://www.st.com/resource/en/datasheet/stm32u545ve.pdf", "1.6 mm"
+END_PART
+
+END.
