@@ -623,12 +623,12 @@
       "4bit vga out"
     ],
     [
-      "4b4b82c0-0ab9-449d-bd70-557960532ad7",
-      "MCU"
-    ],
-    [
       "91cac871-d497-4887-ab60-4a820d2ee1af",
       "SD_card"
+    ],
+    [
+      "4b4b82c0-0ab9-449d-bd70-557960532ad7",
+      "MCU"
     ]
   ],
   "text_variables": {}
