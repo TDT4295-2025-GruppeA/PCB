@@ -53,6 +53,48 @@
 		)
 	)
 	(sheet
+		(at 144.78 67.31)
+		(size 45.72 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "454e6030-5e45-4d22-9e27-5aaf9e5206f7")
+		(property "Sheetname" "STM32U5"
+			(at 144.78 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32U5.kicad_sch"
+			(at 144.78 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TDT4295"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 140.97 15.24)
 		(size 48.26 38.1)
 		(exclude_from_sim no)
