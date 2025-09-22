@@ -2407,13 +2407,13 @@
 			(uuid "048d26e0-c626-49b0-a2cc-d2db297be6f3")
 		)
 		(pin "3"
-			(uuid "6645110b-7eca-46bf-8ec5-34b80ac1dfc0")
+			(uuid "6645110b-7eca-46bf-8ec5-34b80ac1dfc1")
 		)
 		(pin "2"
 			(uuid "63f0fff0-f360-4146-aeb2-1c66ebae0871")
 		)
 		(pin "4"
-			(uuid "18de0b13-e187-474d-859b-7888a66cf106")
+			(uuid "18de0b13-e187-474d-859b-7888a66cf107")
 		)
 		(instances
 			(project "TDT4295"
