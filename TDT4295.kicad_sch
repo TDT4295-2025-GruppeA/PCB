@@ -35,7 +35,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
+		(property "Sheetfile" "4bit_vga_out.kicad_sch"
 			(at 53.34 36.7796 0)
 			(effects
 				(font
@@ -132,6 +132,48 @@
 			(project "TDT4295"
 				(path "/071102f3-276b-4b6b-8738-8c534a30b197"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 111.76)
+		(size 26.67 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ef68469-8fe9-4bb7-b31a-f7b4e943b70f")
+		(property "Sheetname" "Controllers"
+			(at 16.51 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "controllers.kicad_sch"
+			(at 16.51 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "TDT4295"
+				(path "/071102f3-276b-4b6b-8738-8c534a30b197"
+					(page "8")
 				)
 			)
 		)
