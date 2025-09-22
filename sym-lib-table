@@ -156,4 +156,5 @@
   (lib (name "STM32U545VET6Q")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/LIB_STM32U545VET6Q/STM32U545VET6Q/KiCad/STM32U545VET6Q.kicad_sym")(options "")(descr ""))
   (lib (name "THB001P")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/THB001P.kicad_sym")(options "")(descr ""))
   (lib (name "FFC3B11-40-T")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/FFC3B11-40-T.kicad_sym")(options "")(descr ""))
+  (lib (name "2S7A_0518S1U")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/2S7A_0518S1U.kicad_sym")(options "")(descr ""))
 )
