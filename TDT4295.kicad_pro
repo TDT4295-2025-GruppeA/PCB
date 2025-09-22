@@ -637,6 +637,10 @@
     [
       "454e6030-5e45-4d22-9e27-5aaf9e5206f7",
       "STM32U5"
+    ],
+    [
+      "7ef68469-8fe9-4bb7-b31a-f7b4e943b70f",
+      "Controllers"
     ]
   ],
   "text_variables": {}

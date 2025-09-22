@@ -154,4 +154,5 @@
   (lib (name "FPGA_Debug")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/FPGA_Debug.kicad_sym")(options "")(descr ""))
   (lib (name "PMod")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/PMod.kicad_sym")(options "")(descr ""))
   (lib (name "STM32U545VET6Q")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/LIB_STM32U545VET6Q/STM32U545VET6Q/KiCad/STM32U545VET6Q.kicad_sym")(options "")(descr ""))
+  (lib (name "THB001P")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/THB001P.kicad_sym")(options "")(descr ""))
 )
