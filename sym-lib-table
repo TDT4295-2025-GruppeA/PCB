@@ -158,4 +158,5 @@
   (lib (name "FFC3B11-40-T")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/FFC3B11-40-T.kicad_sym")(options "")(descr ""))
   (lib (name "2S7A_0518S1U")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/2S7A_0518S1U.kicad_sym")(options "")(descr ""))
   (lib (name "MC14511BDG")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/MC14511BDG.kicad_sym")(options "")(descr ""))
+  (lib (name "micro_usbb")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/micro_usbb.kicad_sym")(options "")(descr ""))
 )
