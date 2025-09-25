@@ -1,0 +1,9 @@
+Manufacturer=INTEGRATED SILICON SOLUTION / ISSI
+PartNumber=IS66WVE4M16EBLL-70BLI
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=48
+Version=1.1
+Released=2025-09-24 03:40:05
+Downloaded=2025-09-25 09:32:44
+3D=Y
