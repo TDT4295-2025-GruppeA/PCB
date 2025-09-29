@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FH12A_40S_0.5SH_55_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Hirose", "FH12A-40S-0.5SH(55)" (!) = "", "FH12A40S05SH55", "Other", "", "", "40 Position FFC, FPC Connector Contacts, Top 0.020" (0.50mm) Surface Mount, Right Angle", "https://www.hirose.com/en/product/document?clcode=CL0586-0557-8-55&productname=FH12A-40S-0.5SH(55)&series=FH12&documenttype=2DDrawing&lang=en&documentid=0000906862", "2.2 mm"
+END_PART
+
+END.

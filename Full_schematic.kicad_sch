@@ -43995,7 +43995,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KiCad:FH12A40S05SH55"
 			(at 120.65 764.54 0)
 			(effects
 				(font
@@ -48780,7 +48780,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "FFC3BB1-40-T:GCT_FFC3B11-40-T"
+		(property "Footprint" "KiCad:FH12A40S05SH55"
 			(at 29.21 74.93 0)
 			(effects
 				(font
