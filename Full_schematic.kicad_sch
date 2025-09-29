@@ -44037,7 +44037,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Valve:Valve_EURO"
+		(property "Footprint" ""
 			(at 120.65 764.54 0)
 			(effects
 				(font
@@ -47330,7 +47330,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Valve:Valve_EURO"
+		(property "Footprint" "WW100:XTAL_ASV-100.000MHZ-EC-T"
 			(at 604.52 516.89 0)
 			(effects
 				(font
@@ -54571,7 +54571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm"
+		(property "Footprint" "WW100:XTAL_ASV-100.000MHZ-EC-T"
 			(at 95.25 242.57 0)
 			(effects
 				(font
@@ -61495,7 +61495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Valve:Valve_EURO"
+		(property "Footprint" ""
 			(at 162.56 697.23 0)
 			(effects
 				(font
@@ -61739,7 +61739,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "2S7A_0518S1U:SIP4_2S7A_GAP"
+		(property "Footprint" ""
 			(at 447.04 101.6 0)
 			(effects
 				(font
