@@ -19907,16 +19907,6 @@
 	)
 	(wire
 		(pts
-			(xy 482.6 110.49) (xy 482.6 358.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0348e7d9-03e1-4a2e-a7a9-3b812413f280")
-	)
-	(wire
-		(pts
 			(xy 666.75 588.01) (xy 666.75 675.64)
 		)
 		(stroke
@@ -21104,6 +21094,16 @@
 			(type default)
 		)
 		(uuid "181bb510-7438-4e7d-aae2-92a11b2e3a0d")
+	)
+	(wire
+		(pts
+			(xy 474.98 154.94) (xy 474.98 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "183140f2-215b-47ca-863a-ecc779c1dd1e")
 	)
 	(wire
 		(pts
@@ -23437,16 +23437,6 @@
 	)
 	(wire
 		(pts
-			(xy 482.6 110.49) (xy 452.12 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fa242f6-d4bf-44aa-9b6a-71c249e03490")
-	)
-	(wire
-		(pts
 			(xy 450.85 320.04) (xy 450.85 382.27)
 		)
 		(stroke
@@ -23947,7 +23937,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 358.14) (xy 482.6 358.14)
+			(xy 304.8 358.14) (xy 331.47 358.14)
 		)
 		(stroke
 			(width 0)
@@ -28577,16 +28567,6 @@
 	)
 	(wire
 		(pts
-			(xy 331.47 154.94) (xy 331.47 252.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a133bd8-6319-4b46-8a6d-4954d169a2f6")
-	)
-	(wire
-		(pts
 			(xy 134.62 666.75) (xy 99.06 666.75)
 		)
 		(stroke
@@ -31377,6 +31357,16 @@
 	)
 	(wire
 		(pts
+			(xy 474.98 110.49) (xy 452.12 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c72b6ca3-4583-43e9-bbda-f95359b4b717")
+	)
+	(wire
+		(pts
 			(xy 120.65 749.3) (xy 191.77 749.3)
 		)
 		(stroke
@@ -32937,7 +32927,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 154.94) (xy 331.47 154.94)
+			(xy 304.8 154.94) (xy 474.98 154.94)
 		)
 		(stroke
 			(width 0)
@@ -33244,6 +33234,16 @@
 			(type default)
 		)
 		(uuid "e76de4b9-0d51-46ba-8cf5-a7cc56595d60")
+	)
+	(wire
+		(pts
+			(xy 331.47 358.14) (xy 331.47 252.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7915256-9e13-4e58-8fa2-1ef9d93e2e16")
 	)
 	(wire
 		(pts
@@ -34823,28 +34823,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "T12"
-		(shape input)
-		(at 482.6 358.14 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1e9554c6-e5d8-4a81-9e0e-1851713b64df")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 488.9718 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
