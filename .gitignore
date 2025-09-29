@@ -4,3 +4,4 @@ _autosave-*
 .DS_Store
 *.kicad_sch.lck
 *.zip
+*.kicad_pcb.lck
