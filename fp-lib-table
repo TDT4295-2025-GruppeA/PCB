@@ -10,4 +10,6 @@
   (lib (name "FFC3BB1-40-T")(type "KiCad")(uri "${KIPRJMOD}/imported-footprints/FFC3BB1-40-T.pretty")(options "")(descr ""))
   (lib (name "PTS645SM43SMTR92-LFS")(type "KiCad")(uri "${KIPRJMOD}/imported-footprints/PTS645SM43SMTR92-LFS.pretty")(options "")(descr ""))
   (lib (name "micro_usbb")(type "KiCad")(uri "${KIPRJMOD}/imported-footprints/micro_usbb.pretty")(options "")(descr ""))
+  (lib (name "debug_FPGA")(type "KiCad")(uri "${KIPRJMOD}/imported-footprints/debug_FPGA.pretty")(options "")(descr ""))
+  (lib (name "SD_card_conn")(type "KiCad")(uri "${KIPRJMOD}/imported-footprints/SD_card_conn.pretty")(options "")(descr ""))
 )

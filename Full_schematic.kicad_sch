@@ -43962,7 +43962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "KiCad:FH12A40S05SH55"
+		(property "Footprint" "TPS54294PWP:PWP16_2P31X2P46"
 			(at 120.65 764.54 0)
 			(effects
 				(font
@@ -46151,7 +46151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Jumper:Jumper_Harwin_S1621_P10.9mm"
+		(property "Footprint" "SD_card_conn:AMPHENOL_10067847-001RLF"
 			(at 919.48 610.87 0)
 			(effects
 				(font
@@ -47189,7 +47189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WW100:XTAL_ASV-100.000MHZ-EC-T"
+		(property "Footprint" "Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm"
 			(at 604.52 516.89 0)
 			(effects
 				(font
@@ -54496,7 +54496,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WW100:XTAL_ASV-100.000MHZ-EC-T"
+		(property "Footprint" "Oscillator:Oscillator_SMD_SiT_PQFN-4Pin_7.0x5.0mm"
 			(at 95.25 242.57 0)
 			(effects
 				(font
@@ -62095,7 +62095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:Jumper_Harwin_S1621_P10.9mm"
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical_SMD"
 			(at 789.94 567.69 0)
 			(effects
 				(font
@@ -62686,7 +62686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Jumper:Jumper_Harwin_S1621_P10.9mm"
+		(property "Footprint" "debug_FPGA:CONN14_877591414_MOL"
 			(at 420.37 194.31 0)
 			(effects
 				(font
