@@ -1,0 +1,16 @@
+.CY62157EV30LL-55ZSXE :1 ;Cypress Semiconductor CY62157EV30LL-55ZSXE SRAM Memory, 8Mbit, 2.2  3.6 V, 55ns 44-Pin TSOP
+SOP80P1184X119-44N
+*STM IC
+*NGS
+*PLB 1="A4" 2="A3" 3="A2" 4="A1" 5="A0" 6="'CE'" 7="I/O0" 8="I/O1" 9="I/O2" 10="I/O3" 11="VCC_1" 12="VSS_1" 13="I/O4" 14="I/O5" 15="I/O6" 16="I/O7" 17="'WE'" 18="A18" 19="A17" 20="A16" 21="A15" 22="A14" 23="A13" 24="A12" 25="A11" 26="A10" 27="A9" 28="A8" 29="I/O8" 30="I/O9" 31="I/O10" 32="I/O11" 33="VCC_2" 34="VSS_2" 35="I/O12" 36="I/O13" 37="I/O14" 38="I/O15" 39="'BLE'" 40="'BHE'" 41="'OE'" 42="A7" 43="A6" 44="A5"
+*MXP 44
+*DFN CY62157EV30LL-55ZSXE
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (CY62157EV30LL-55ZSXE)
+~!Link Datasheet (https://www.cypress.com/file/43021/download)
+~!Height (1.194mm)
+~!3D_Model (CY62157EV30LL-55ZSXE)
+CY62157EV30LL-55ZSXE
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 

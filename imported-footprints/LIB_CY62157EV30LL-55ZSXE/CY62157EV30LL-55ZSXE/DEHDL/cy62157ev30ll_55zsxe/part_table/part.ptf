@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CY62157EV30LL_55ZSXE'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "CY62157EV30LL-55ZSXE" (!) = "", "SOP80P1184X119-44N", "Small Outline Packages", "", "", "Cypress Semiconductor CY62157EV30LL-55ZSXE SRAM Memory, 8Mbit, 2.2  3.6 V, 55ns 44-Pin TSOP", "https://www.cypress.com/file/43021/download", "1.194 mm"
+END_PART
+
+END.

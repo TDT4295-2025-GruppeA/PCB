@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS66WVE4M16EBLL-70BLI
+D SRAM 64Mb,Pseudo SRAM,Asynch/Page, 4M x 16,70ns,VDD 2.7V~3.6V, VDDQ 2.7V~3.6V,48 Ball BGA (6x8 mm), RoHS
+K
+F https://www.issi.com/WW/pdf/66-67WVE4M16EALL-BLL-CLL.pdf
+$ENDCMP
+#
+#End Doc Library

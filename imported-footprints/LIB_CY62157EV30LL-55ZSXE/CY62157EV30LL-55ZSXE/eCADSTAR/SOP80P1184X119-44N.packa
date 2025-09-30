@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CY62157EV30LL-55ZSXE"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-01-25-21:25:52)
+    (mountForm default
+        (footprintRef "SOP80P1184X119-44N")
+        (spec "System")
+    )
+)

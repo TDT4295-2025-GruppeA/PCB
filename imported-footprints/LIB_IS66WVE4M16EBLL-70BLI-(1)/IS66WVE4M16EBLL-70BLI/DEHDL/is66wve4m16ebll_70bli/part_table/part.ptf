@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IS66WVE4M16EBLL_70BLI'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "INTEGRATED SILICON SOLUTION / ISSI", "IS66WVE4M16EBLL-70BLI" (!) = "", "BGA48C75P6X8_600X800X120", "BGA", "", "", "SRAM 64Mb,Pseudo SRAM,Asynch/Page, 4M x 16,70ns,VDD 2.7V~3.6V, VDDQ 2.7V~3.6V,48 Ball BGA (6x8 mm), RoHS", "https://www.issi.com/WW/pdf/66-67WVE4M16EALL-BLL-CLL.pdf", "1.2 mm"
+END_PART
+
+END.

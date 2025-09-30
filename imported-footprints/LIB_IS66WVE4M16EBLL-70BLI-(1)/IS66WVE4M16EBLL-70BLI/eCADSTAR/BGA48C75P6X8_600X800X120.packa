@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IS66WVE4M16EBLL-70BLI"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-09-24-03:40:05)
+    (mountForm default
+        (footprintRef "BGA48C75P6X8_600X800X120")
+        (spec "System")
+    )
+)
