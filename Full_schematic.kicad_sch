@@ -48470,7 +48470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "joystick:THB001P_CNK"
+		(property "Footprint" "COM-09032:XDCR_COM-09032"
 			(at 541.02 608.33 0)
 			(effects
 				(font

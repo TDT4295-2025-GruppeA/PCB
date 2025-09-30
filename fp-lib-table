@@ -12,4 +12,5 @@
   (lib (name "micro_usbb")(type "KiCad")(uri "${KIPRJMOD}/imported-footprints/micro_usbb.pretty")(options "")(descr ""))
   (lib (name "debug_FPGA")(type "KiCad")(uri "${KIPRJMOD}/imported-footprints/debug_FPGA.pretty")(options "")(descr ""))
   (lib (name "SD_card_conn")(type "KiCad")(uri "${KIPRJMOD}/imported-footprints/SD_card_conn.pretty")(options "")(descr ""))
+  (lib (name "COM-09032")(type "KiCad")(uri "${KIPRJMOD}/imported-footprints/COM-09032.pretty")(options "")(descr ""))
 )
