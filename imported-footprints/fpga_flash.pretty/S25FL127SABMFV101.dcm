@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S25FL127SABMFV101
+D NOR Flash Serial (SPI, Dual SPI, Quad SPI) 3V/3.3V 128M-bit 128M/64M/32M x 1/2-bit/4-bit 8ns 8-Pin SOIC Tube
+K
+F https://www.infineon.com/dgdl/Infineon-S25FL127S_128-Mb_(16_MB)_3.0_V_SPI_Flash_Memory-DataSheet-v11_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ecfa58c49f7&utm_source=cypress&utm_medium=referral&utm_campaign=202110_globe_en_all_integration-files
+$ENDCMP
+#
+#End Doc Library
