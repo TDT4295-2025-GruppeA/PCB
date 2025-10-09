@@ -1,8 +1,15 @@
-26708033115498960
+26693971815695116
 2S7A_0518S1U
 SIP4_2S7A_GAP
 
 2S7A_0518S1U 
+0
+4
+4
+100Hz_crystal
+CB3LV3C100M000000
+4-SMD_2025-1.1
+Crystal or Oscillator
 0
 4
 4
@@ -2820,13 +2827,6 @@ XDCR_COM-09032
 0
 14
 14
-CY6215EV
-SOP80P1184X119-44N
-44-pin TSOP Package Outline, 51-85087
-Integrated Circuit
-0
-44
-44
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -62453,6 +62453,13 @@ GDT 3R-6
 0
 3
 3
+G800W306018EU
+AMPHENOL_G800W306018EU
+
+
+0
+2
+2
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -69348,13 +69355,6 @@ solder jumper open
 0
 3
 3
-KiCad
-FH12A40S05SH55
-FH12A-40S-0.5SH(55)-2
-Connector
-0
-42
-42
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -99315,48 +99315,6 @@ Logo WEEE
 0
 0
 0
-TPS54294PWP
-PWP16_2P31X2P46
-
-TPS54294PWP 
-0
-23
-18
-TPS54294PWP
-PWP16_2P31X2P46-L
-
-TPS54294PWP 
-0
-23
-18
-TPS54294PWP
-PWP16_2P31X2P46-M
-
-TPS54294PWP 
-0
-23
-18
-TPS54325PWPR
-PWP14_2P31X2P46
-
-TPS54325PWPR 
-0
-15
-15
-TPS54325PWPR
-PWP14_2P31X2P46-L
-
-TPS54325PWPR 
-0
-15
-15
-TPS54325PWPR
-PWP14_2P31X2P46-M
-
-TPS54325PWPR 
-0
-15
-15
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -106406,13 +106364,6 @@ Varistor VF
 0
 2
 2
-WW100
-XTAL_ASV-100.000MHZ-EC-T
-
-
-0
-4
-4
 XC7A100T-FTG256
 FTG256_AMD
 
@@ -106441,27 +106392,13 @@ CONN14_877591414_MOL
 0
 14
 14
-footprints
-SO3016_INF
-
-S25FL128SAGMFI000 
+fpga_flash
+SOIC127P800X216-8N
+8-lead SOIC (5.28 × 5.28 × 2.16 mm) SOC008
+Integrated Circuit
 0
-16
-16
-footprints
-SO3016_INF-L
-
-S25FL128SAGMFI000 
-0
-16
-16
-footprints
-SO3016_INF-M
-
-S25FL128SAGMFI000 
-0
-16
-16
+8
+8
 imported-footprints
 BGA48C75P6X8_600X800X120
 48-ball TFBGA
@@ -106476,6 +106413,13 @@ GCT_FFC3B11-40-T
 0
 42
 42
+imported-footprints
+test
+
+
+0
+0
+0
 joystick
 THB001P_CNK
 
