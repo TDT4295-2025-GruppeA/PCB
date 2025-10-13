@@ -160,4 +160,5 @@
   (lib (name "MC14511BDG")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/MC14511BDG.kicad_sym")(options "")(descr ""))
   (lib (name "micro_usbb")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/micro_usbb.kicad_sym")(options "")(descr ""))
   (lib (name "PTS645SM43SMTR92-LFS")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/PTS645SM43SMTR92-LFS.kicad_sym")(options "")(descr ""))
+  (lib (name "G800W306018EU")(type "KiCad")(uri "${KIPRJMOD}/imported-symbols/G800W306018EU.kicad_sym")(options "")(descr ""))
 )

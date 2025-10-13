@@ -4901,6 +4901,257 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "G800W306018EU:G800W306018EU"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "G800W306018EU"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "G800W306018EU:AMPHENOL_G800W306018EU"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "B"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "8.95 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Amphenol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "G800W306018EU_0_0"
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 1.27 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 1.905 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 1.27 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0.635 2.2225)
+					(end 2.2225 2.8575)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.635 -0.3175)
+					(end 2.2225 0.3175)
+					(stroke
+						(width 0.1)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 7.62 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 1.27 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -2.54) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "LED:IR26-21C_L110_TR8"
 			(pin_numbers
 				(hide yes)
@@ -19144,7 +19395,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 212.09) (xy 43.18 651.51)
+			(xy 43.18 212.09) (xy 43.18 596.9)
 		)
 		(stroke
 			(width 0)
@@ -33384,6 +33635,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 599.44) (xy 43.18 651.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ece85064-0cf7-4d06-8ddd-d773be17a10c")
+	)
+	(wire
+		(pts
 			(xy 711.2 758.19) (xy 711.2 772.16)
 		)
 		(stroke
@@ -34766,7 +35027,7 @@
 			)
 		)
 	)
-	(global_label "R0"
+	(global_label "RED0"
 		(shape input)
 		(at 407.67 365.76 0)
 		(fields_autoplaced yes)
@@ -34778,7 +35039,7 @@
 		)
 		(uuid "1fcee6e3-5928-48ac-9f6c-3103f98112cd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 413.1347 365.76 0)
+			(at 415.5537 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34876,7 +35137,7 @@
 			)
 		)
 	)
-	(global_label "B0"
+	(global_label "BLUE0"
 		(shape input)
 		(at 407.67 350.52 0)
 		(fields_autoplaced yes)
@@ -34888,7 +35149,7 @@
 		)
 		(uuid "2b64297e-aa51-404e-98f2-f72b4ceaec53")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 413.1347 350.52 0)
+			(at 416.6423 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35206,7 +35467,7 @@
 			)
 		)
 	)
-	(global_label "R1"
+	(global_label "RED1"
 		(shape input)
 		(at 407.67 363.22 0)
 		(fields_autoplaced yes)
@@ -35218,7 +35479,7 @@
 		)
 		(uuid "48fcb5ff-d325-4993-8ceb-77704bd7fc5e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 413.1347 363.22 0)
+			(at 415.5537 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35250,7 +35511,7 @@
 			)
 		)
 	)
-	(global_label "G1"
+	(global_label "GREEN1"
 		(shape input)
 		(at 466.09 335.28 0)
 		(fields_autoplaced yes)
@@ -35262,7 +35523,7 @@
 		)
 		(uuid "4c707b0f-2614-44fd-8a7a-9aff560d33f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 471.5547 335.28 0)
+			(at 476.4532 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35602,7 +35863,7 @@
 			)
 		)
 	)
-	(global_label "G0"
+	(global_label "GREEN0"
 		(shape input)
 		(at 466.09 337.82 0)
 		(fields_autoplaced yes)
@@ -35614,7 +35875,7 @@
 		)
 		(uuid "6aa5d3aa-604e-4d5d-8db2-0c3e80564b02")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 471.5547 337.82 0)
+			(at 476.4532 337.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35668,7 +35929,7 @@
 			)
 		)
 	)
-	(global_label "B3"
+	(global_label "BLUE3"
 		(shape input)
 		(at 407.67 340.36 0)
 		(fields_autoplaced yes)
@@ -35680,7 +35941,7 @@
 		)
 		(uuid "6d304e17-d762-4557-be66-08b732cd61f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 413.1347 340.36 0)
+			(at 416.6423 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35822,7 +36083,7 @@
 			)
 		)
 	)
-	(global_label "R3"
+	(global_label "RED3"
 		(shape input)
 		(at 407.67 353.06 0)
 		(fields_autoplaced yes)
@@ -35834,7 +36095,7 @@
 		)
 		(uuid "7797d5d9-b80e-458a-bdda-d038ca45a19e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 413.1347 353.06 0)
+			(at 415.5537 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35910,7 +36171,7 @@
 			)
 		)
 	)
-	(global_label "R2"
+	(global_label "RED2"
 		(shape input)
 		(at 407.67 360.68 0)
 		(fields_autoplaced yes)
@@ -35922,7 +36183,7 @@
 		)
 		(uuid "80043592-e783-4805-a600-0371128adde7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 413.1347 360.68 0)
+			(at 415.5537 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36482,7 +36743,7 @@
 			)
 		)
 	)
-	(global_label "B2"
+	(global_label "BLUE2"
 		(shape input)
 		(at 407.67 345.44 0)
 		(fields_autoplaced yes)
@@ -36494,7 +36755,7 @@
 		)
 		(uuid "a23d06be-fea9-4ead-ba26-ab6e9b9c41cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 413.1347 345.44 0)
+			(at 416.6423 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37208,7 +37469,7 @@
 			)
 		)
 	)
-	(global_label "G3"
+	(global_label "GREEN3"
 		(shape input)
 		(at 466.09 327.66 0)
 		(fields_autoplaced yes)
@@ -37220,7 +37481,7 @@
 		)
 		(uuid "d91c858e-9735-442b-81ce-91ef01d725f3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 471.5547 327.66 0)
+			(at 476.4532 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37274,7 +37535,7 @@
 			)
 		)
 	)
-	(global_label "B1"
+	(global_label "BLUE1"
 		(shape input)
 		(at 407.67 347.98 0)
 		(fields_autoplaced yes)
@@ -37286,7 +37547,7 @@
 		)
 		(uuid "df04f28e-d004-424a-909e-af2ec20689cf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 413.1347 347.98 0)
+			(at 416.6423 347.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37494,7 +37755,7 @@
 			)
 		)
 	)
-	(global_label "G2"
+	(global_label "GREEN2"
 		(shape input)
 		(at 466.09 332.74 0)
 		(fields_autoplaced yes)
@@ -37506,7 +37767,7 @@
 		)
 		(uuid "f2d4ee8b-b4ce-4a7a-819e-24e5fc89b77f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 471.5547 332.74 0)
+			(at 476.4532 332.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38193,6 +38454,73 @@
 			(project "Full_schematic"
 				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
 					(reference "#PWR0142")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 322.58 665.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03ba1083-5b96-405b-b897-13f1024cb245")
+		(property "Reference" "#PWR020"
+			(at 326.39 665.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 318.77 665.4799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 322.58 665.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 665.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 322.58 665.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ddf5f149-e032-48b7-9c95-afcade1fad41")
+		)
+		(instances
+			(project "Full_schematic"
+				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -40082,6 +40410,117 @@
 		)
 	)
 	(symbol
+		(lib_id "G800W306018EU:G800W306018EU")
+		(at 327.66 684.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "18b090b7-d323-4d48-8437-d0e0d1b7829d")
+		(property "Reference" "JP3"
+			(at 336.55 681.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "G800W306018EU"
+			(at 336.55 684.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "G800W306018EU:AMPHENOL_G800W306018EU"
+			(at 327.66 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 327.66 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 327.66 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "B"
+			(at 327.66 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 327.66 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.95 mm"
+			(at 327.66 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Amphenol"
+			(at 327.66 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fdb28517-f20f-477c-9953-82687fff3a9f")
+		)
+		(pin "1"
+			(uuid "33d2887b-3d92-437b-9e7d-b8788b69dffc")
+		)
+		(instances
+			(project "Full_schematic"
+				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
+					(reference "JP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 632.46 473.71 0)
 		(unit 1)
@@ -41923,6 +42362,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+1V8")
+		(at 322.58 648.97 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2737270d-c642-4d27-9db4-2bd09b6abf05")
+		(property "Reference" "#PWR018"
+			(at 326.39 648.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+1V8"
+			(at 318.77 648.9699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 322.58 648.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 648.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V8\""
+			(at 322.58 648.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5ed8a104-bf0f-4d6c-8277-2d9bce424a00")
+		)
+		(instances
+			(project "Full_schematic"
+				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Display_Character:MAN72A")
 		(at 613.41 789.94 270)
 		(unit 1)
@@ -42365,6 +42871,117 @@
 			(project ""
 				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
 					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "G800W306018EU:G800W306018EU")
+		(at 327.66 651.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "29793adc-8cc4-45c8-bfbc-86fcb64b1f33")
+		(property "Reference" "JP1"
+			(at 336.55 648.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "G800W306018EU"
+			(at 336.55 651.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "G800W306018EU:AMPHENOL_G800W306018EU"
+			(at 327.66 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 327.66 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 327.66 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "B"
+			(at 327.66 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 327.66 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.95 mm"
+			(at 327.66 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Amphenol"
+			(at 327.66 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "88d712ef-d2fc-477f-8b20-2ebb20227b27")
+		)
+		(pin "1"
+			(uuid "497d30c1-b5cf-429d-862b-3391685beffb")
+		)
+		(instances
+			(project ""
+				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
+					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -43815,7 +44432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP80P1184X119-44N"
+		(property "Footprint" "CY6215EV:SOP80P1184X119-44N"
 			(at 101.6 285.42 0)
 			(effects
 				(font
@@ -47467,6 +48084,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+1V0")
+		(at 322.58 681.99 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f91d9fb-340c-4a64-a5b3-f01cd9bea7cc")
+		(property "Reference" "#PWR0155"
+			(at 326.39 681.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+1V0"
+			(at 318.77 681.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 322.58 681.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 681.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V0\""
+			(at 322.58 681.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90c9acc3-3851-4ea0-971a-cef4524503d8")
+		)
+		(instances
+			(project "Full_schematic"
+				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
+					(reference "#PWR0155")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 450.85 449.58 0)
 		(unit 1)
@@ -50604,7 +51288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP80P1184X119-44N"
+		(property "Footprint" "CY6215EV:SOP80P1184X119-44N"
 			(at 515.62 286.69 0)
 			(effects
 				(font
@@ -51365,6 +52049,73 @@
 			(project "Full_schematic"
 				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
 					(reference "#PWR073")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+1V8")
+		(at 322.58 651.51 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70c2e293-f4f0-4475-9e3c-3032d69c239e")
+		(property "Reference" "#PWR019"
+			(at 326.39 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+1V8"
+			(at 318.77 651.5099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 322.58 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V8\""
+			(at 322.58 651.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "54b208f3-d794-44a2-8923-3b47c7da4eb9")
+		)
+		(instances
+			(project "Full_schematic"
+				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -53962,6 +54713,117 @@
 		)
 	)
 	(symbol
+		(lib_id "G800W306018EU:G800W306018EU")
+		(at 48.26 599.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8737552b-d30c-454b-9c07-c190a0a64775")
+		(property "Reference" "JP4"
+			(at 57.15 596.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "G800W306018EU"
+			(at 57.15 599.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "G800W306018EU:AMPHENOL_G800W306018EU"
+			(at 48.26 599.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 599.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 48.26 599.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "B"
+			(at 48.26 599.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 48.26 599.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.95 mm"
+			(at 48.26 599.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Amphenol"
+			(at 48.26 599.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "62b8aed0-e59e-4676-bed8-86c0a6879359")
+		)
+		(pin "1"
+			(uuid "8b70313d-1ca8-42fd-9923-26ecc4f38f35")
+		)
+		(instances
+			(project "Full_schematic"
+				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
+					(reference "JP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "2025-09-12_09-11-34:SN74ALVC245PWR")
 		(at 400.05 382.27 270)
 		(unit 1)
@@ -55300,7 +56162,7 @@
 				)
 			)
 		)
-		(property "Value" "ASCO"
+		(property "Value" "100Hz"
 			(at 45.72 229.7998 0)
 			(effects
 				(font
@@ -55308,7 +56170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_SiT_PQFN-4Pin_7.0x5.0mm"
+		(property "Footprint" "100Hz_crystal:CB3LV3C100M000000"
 			(at 36.83 242.57 0)
 			(effects
 				(font
@@ -55317,7 +56179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://abracon.com/Oscillators/ASCO.pdf"
+		(property "Datasheet" ""
 			(at 28.575 230.505 0)
 			(effects
 				(font
@@ -55326,7 +56188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Crystal Clock Oscillator, Abracon ASCO"
+		(property "Description" ""
 			(at 34.29 233.68 0)
 			(effects
 				(font
@@ -60310,6 +61172,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 322.58 668.02 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9bb00c4-86eb-45c9-9dc1-c85aeaa2dc2a")
+		(property "Reference" "#PWR021"
+			(at 326.39 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 318.77 668.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 322.58 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 322.58 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a32c7fb-f1b4-45e0-9098-875c8a7a70c2")
+		)
+		(instances
+			(project ""
+				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 866.14 646.43 0)
 		(unit 1)
@@ -61670,6 +62599,73 @@
 	)
 	(symbol
 		(lib_id "power:+1V0")
+		(at 322.58 684.53 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cf538984-b5e7-456b-993b-4e2048944141")
+		(property "Reference" "#PWR0156"
+			(at 326.39 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+1V0"
+			(at 318.77 684.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 322.58 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 322.58 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V0\""
+			(at 322.58 684.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "963106b1-adae-40ec-b0a1-4fe062520438")
+		)
+		(instances
+			(project "Full_schematic"
+				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
+					(reference "#PWR0156")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+1V0")
 		(at 220.98 231.14 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -62210,7 +63206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "footprints:SO3016_INF"
+		(property "Footprint" "fpga_flash:SOIC127P800X216-8N"
 			(at 447.04 101.6 0)
 			(effects
 				(font
@@ -66355,6 +67351,117 @@
 			(project "Full_schematic"
 				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
 					(reference "C82")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "G800W306018EU:G800W306018EU")
+		(at 327.66 668.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ff4eee15-cb3b-4ceb-b40f-e7773072d8a2")
+		(property "Reference" "JP2"
+			(at 336.55 665.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "G800W306018EU"
+			(at 336.55 668.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "G800W306018EU:AMPHENOL_G800W306018EU"
+			(at 327.66 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 327.66 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 327.66 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "B"
+			(at 327.66 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 327.66 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.95 mm"
+			(at 327.66 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Amphenol"
+			(at 327.66 668.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c580c38c-b765-41d5-9836-fd6601bbaaa9")
+		)
+		(pin "1"
+			(uuid "110fd397-c1a2-4eba-a023-8a02df373184")
+		)
+		(instances
+			(project "Full_schematic"
+				(path "/f31f37d2-6847-4047-ac5f-32db6fac168c"
+					(reference "JP2")
 					(unit 1)
 				)
 			)
