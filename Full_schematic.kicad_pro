@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.4,
-          "width": 1.025
+          "height": 0.3556,
+          "width": 1.6764
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -52,7 +52,28 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_edge_clearance|202172900|68280599|220442ca-5c0e-4490-a9e9-e99c06722b8a|ef77dbc3-422c-460e-afdf-5a2b48a3ef4e",
+          "VGA conn"
+        ],
+        [
+          "silk_edge_clearance|209411900|68280599|220442ca-5c0e-4490-a9e9-e99c06722b8a|a9de8a72-2364-4d8d-b42c-0669c2bc2607",
+          "VGA conn"
+        ],
+        [
+          "silk_edge_clearance|225998100|68280599|220442ca-5c0e-4490-a9e9-e99c06722b8a|53091db5-1b84-4e2c-b7f3-670a32c48d67",
+          "VGA conn"
+        ],
+        [
+          "silk_edge_clearance|233237100|68243000|220442ca-5c0e-4490-a9e9-e99c06722b8a|e158f2a7-5b6c-43b5-921d-0a2e07e43690",
+          "VGA conn"
+        ],
+        [
+          "silk_edge_clearance|233237100|68280599|220442ca-5c0e-4490-a9e9-e99c06722b8a|d0b6a796-c6ff-42ec-b559-68a9ec3fe4fb",
+          "VGA conn"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -117,22 +138,22 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.15,
+        "min_clearance": 0.11,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
+        "min_hole_clearance": 0.11,
+        "min_hole_to_hole": 0.4,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.15,
-        "min_via_annular_width": 0.15,
-        "min_via_diameter": 0.6,
+        "min_through_hole_diameter": 0.15,
+        "min_track_width": 0.11,
+        "min_via_annular_width": 0.125,
+        "min_via_diameter": 0.4,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
